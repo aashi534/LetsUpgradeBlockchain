@@ -1,0 +1,29 @@
+Questions:
+
+Q1. What is your understanding of blockchain?
+
+Ans. It is actually a combination of mix of technologies: Distributed database and Cryptography. These technologies will create much wanted transparency and trust in system by removing middleman.
+There is no third party or middleman involved. Trust lies within the community itself. Everyone in the network validates the transactions.
+
+Q2. What is the core problem Blockchain trying to solve?
+
+Ans. Blockchain is used to avoid hacking into the database and offering tamper-proof database. That means no one alter the transactions. It gives a huge security boost. It offers data transparency over the network.
+It works in a decentralised environment and moreover data is verifable. Not to forget, it removes the middleman involved in b/w the transactions.
+
+Q3. What are the few features blockchain will give you?
+
+Ans. 1. Unchangeable data
+2. Tamper-proof data
+3. Immutable records of transactions.
+4. Decentralised environment.
+
+Q4. What all things a block can contain?
+
+Ans. 1. Block number
+2. Transaction Record
+3. Previous Digital Signature
+4. Mining Key
+
+Q5. How is the verifiabilty of blockchain has been attained?
+
+Ans.  BlockChain operates on the Distributed Database system, thus when the data is stored intially it generates a hash key which changes immediately when the existing data is modified. Hence the data if needs to be changed must be changed in other blocks also. Thus it will detect any change in the existing data.
